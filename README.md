@@ -1433,17 +1433,10 @@ BankingSystem/
 
 ## 📜 License
 
-This project is licensed under the MIT License - see LICENSE file for details.
+This project is licensed only for portfolio and learning.
 
 ---
 
-## 📧 Support & Contact
-
-- **Issues:** Create GitHub issue for bugs/features
-- **Email:** tp301103@gmail.com
-- **Repository:** [github.com/TienPhuong2003/BankingSystem](https://github.com/TienPhuong2003/BankingSystem)
-
----
 
 ## 🎓 Key Concepts
 
@@ -1472,8 +1465,4 @@ System eventually becomes consistent after all events are processed, even if ind
 - [Redis Documentation](https://redis.io/documentation)
 - [Razorpay Integration](https://razorpay.com/docs/)
 
----
 
-**Last Updated:** 2024-09-13
-**Status:** ✅ Production Ready
-**Maintainer:** TienPhuong2003
