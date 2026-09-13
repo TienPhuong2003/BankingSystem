@@ -5,7 +5,6 @@ A **production-ready microservices-based banking system** with real-time fraud d
 ![Status](https://img.shields.io/badge/status-active-success)
 ![Java](https://img.shields.io/badge/Java-21-blue)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-4.1.0-green)
-![License](https://img.shields.io/badge/license-MIT-lightgrey)
 
 ---
 
